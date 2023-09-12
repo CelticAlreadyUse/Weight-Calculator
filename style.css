@@ -1,0 +1,32 @@
+.information{
+    justify-content: center;
+    text-align: center;
+    margin-left: 50%;
+}
+
+.information img{
+
+    width: 30%;
+    height: 100%;
+}
+.hasil{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.calculation{
+        font-weight: bold;
+}
+#resultShow{
+    
+    text-align: center;
+    object-position: center;
+}
+
+.resultinfo{
+    color: rgb(0, 81, 255);
+    font-weight: bold;
+}
+
+.result{
+    font-weight: 700;
+}
